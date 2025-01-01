@@ -1,0 +1,3 @@
+Quantum Science related country aligned content, especially North America. 
+
+Quantum Science is the study of physical properties at small, even atomic, scales. Defense applications include atomic clocks, quantum sensors, quantum computing, and quantum networks. Quantum science promises to enable leap-ahead capabilities. Quantum computing can provide unprecedented computational speeds and help solve the Department's hardest analytical problems. Quantum sensors promise the ability to provide unprecedented accuracy in position, navigation, and timing. From more accurate information to faster decision making, to significantly stronger encryption capabilities, quantum science has the promise to deliver cutting-edge technology.
