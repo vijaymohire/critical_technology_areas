@@ -1,0 +1,3 @@
+Future Generation Wireless Technology (FutureG) related content.
+
+FutureG is a suite of emerging wireless network technologies enabled by DoD and commercial industry cooperation to enable military operations and ensure a free and open internet. As Fifth Generation (5G) wireless technology is adopted and provides building blocks for capability, the DoD will also look to FutureG for leap-ahead technologies to lead in creating future standards. The Department will invest in FutureG technology development to lay the groundwork for continued United States leadership in information technology, which is vital for maintaining our economic and national security.
