@@ -1,0 +1,1 @@
+To provide advantage for the joint task force teams in the highly contested environments, the company must develop wideband sensors to operate at the intersection of cyber space, electronic warfare, radar, and communications. Sensors must be able to counter advanced threats and can no longer be stove-piped and single function.
