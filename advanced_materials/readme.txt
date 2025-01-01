@@ -1,0 +1,2 @@
+Advanced Materials
+Advanced materials explore innovative new materials and novel manufacturing techniques that can dramatically improve many of the Department's capabilities. Materials that have higher strength, lighter weight, higher efficiency, and can handle more extreme temperatures will have the potential to better protect our service members and enhance their ability to accomplish their missions.
